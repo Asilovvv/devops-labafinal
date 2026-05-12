@@ -116,10 +116,4 @@ ufw status
 Repository → Settings → Secrets and variables → Actions → New repository secret
 ```
 
-Добавь:
-
-```text
-SERVER_IP = IP адрес Droplet
-SSH_PRIVATE_KEY = приватный SSH ключ
-```
 
