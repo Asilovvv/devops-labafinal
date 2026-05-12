@@ -112,8 +112,5 @@ ufw status
 
 В GitHub открой:
 
-```text
-Repository → Settings → Secrets and variables → Actions → New repository secret
-```
 
 
