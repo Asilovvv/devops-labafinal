@@ -123,5 +123,3 @@ SERVER_IP = IP адрес Droplet
 SSH_PRIVATE_KEY = приватный SSH ключ
 ```
 
-## Что сдавать преподавателю
-
