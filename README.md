@@ -125,8 +125,3 @@ SSH_PRIVATE_KEY = приватный SSH ключ
 
 ## Что сдавать преподавателю
 
-1. GitHub repository URL
-2. IP адрес Droplet
-3. Скриншот `docker ps`
-4. Скриншот успешного GitHub Actions deploy
-# devops-labafinal
